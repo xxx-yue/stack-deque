@@ -1,0 +1,23 @@
+﻿## Visual Studio
+.vs/
+x64/
+Debug/
+Release/
+*.sdf
+*.opensdf
+*.vcxproj.user
+*.vcxproj.filters
+*.suo
+*.user
+*.log
+ipch/
+*.db
+*.db-wal
+*.db-shm
+__pycache__/
+*.pyc
+bin/
+obj/
+*.exe
+*.pdb
+*.ilk
